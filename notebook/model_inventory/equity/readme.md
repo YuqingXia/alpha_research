@@ -1,0 +1,1 @@
+In this notebook folders, we try to replicate the indicators mentioned in the [macro-ops](https://macro-ops.com/the-fed-is-behind-the-curve-dirty-dozen/)
